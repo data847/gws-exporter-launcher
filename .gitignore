@@ -1,0 +1,9 @@
+app/
+.venv/
+tools/
+output/
+.env
+operator.env
+service_account.json
+ref.txt
+__pycache__/
